@@ -368,12 +368,12 @@
         "width": {
           "description": "Comment width",
           "type": "number",
-          "minimum": 0
+          "minimum": 10
         },
         "height": {
           "description": "Comment height",
           "type": "number",
-          "minimum": 0
+          "minimum": 10
         },
         "class_name": {
           "description": "CSS class(es) to apply to the comment",
